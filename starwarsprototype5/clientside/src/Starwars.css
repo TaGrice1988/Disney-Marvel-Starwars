@@ -1,0 +1,33 @@
+.position--1 {
+  position: relative;
+  top: 95%;
+}
+.h1 {
+  margin-top: 0;
+}
+label {
+  color: #eee;
+}
+
+
+input {
+  margin-left: 10px;
+  border-radius: 5px;
+  border-style: none;
+  height: 20px;
+}
+.body {
+  height: 1000px;
+  margin: 0;
+  background: url("./assets/StarWarsImages/TheChoiceImage/obi-wan-kenobi-vs-darth-vader-nb.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+}
+.question {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 90%;
+}
